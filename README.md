@@ -1,5 +1,5 @@
-Turtle Crossing Game
-A fun little arcade-style Python game built using the turtle graphics module. Inspired by the classic Frogger, your goal is to help the turtle cross the road while dodging incoming cars. Each successful crossing takes you to a new level with increased difficulty.
+* Turtle Crossing Game
+-A fun little arcade-style Python game built using the turtle graphics module. Inspired by the classic Frogger, your goal is to help the turtle cross the road while dodging incoming cars. Each successful crossing takes you to a new level with increased difficulty.
 
 _______________________________________________________________
 
